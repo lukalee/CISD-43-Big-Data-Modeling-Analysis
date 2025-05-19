@@ -1,0 +1,4 @@
+mongod --dbpath=/Users/user/data/db
+
+Tutorial
+https://www.youtube.com/watch?v=8gUQL2zlpvI&ab_channel=ProgrammingKnowledge
